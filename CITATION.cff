@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Digital Image Processing from scratch"
+type: software
+authors:
+  - family-names: Shojaei
+    given-names: Negar
+version: 1.0.0
+date-released: "2026-11-08"
+license: MIT
+repository-code: "https://github.com/negarsh76/Digital-Image-Processing"
+keywords:
+  - "image processing"
+  - "CT reconstruction"
+  - "Radon transform"
+  - "computer vision"
